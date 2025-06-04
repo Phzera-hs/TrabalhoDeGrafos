@@ -1,0 +1,10 @@
+0;Alice;Aventura
+1;Bob;Comédia
+2;Carol;Romance
+3;David;Ação
+4;Eva;Comédia
+5;Felipe;Aventura
+6;Giulia;Terror
+7;Heitor;Aventura
+8;Isabela;Romance
+9;João;Ação
