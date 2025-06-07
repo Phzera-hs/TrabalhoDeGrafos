@@ -1,10 +1,11 @@
 0;Indiana Jones;Aventura
-1;Velozes e Furiosos;Ação
-2;A Cinco Passos de Você;Romance
-3;Gente Grande 2;Comédia
-4;Invocação do Mal;Terror
+1;Velozes e Furiosos;Acao
+2;A Cinco Passos de Voce;Romance
+3;Gente Grande 2;Comedia
+4;Invocacao do Mal;Terror
 5;Star Wars;Aventura
-6;Missão Impossível;Ação
-7;Click;Comédia
+6;Missao Impossivel;Acao
+7;Click;Comedia
 8;Titanic;Romance
 9;Corra!;Terror
+10;Vingadores;Acao
